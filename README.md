@@ -1,7 +1,7 @@
 ### hello 👋
 Coding for fun from a young age, I majored in CS in high school and participated in the Cyber4s program for discharged combat soldiers. I'm a full-stack developer in the MERN stack but enjoy most using my design skills to produce elegant and responsive web applications. In my free time I make beats.
 
-- 🔭 I’m currently working on a finance app
+- 🔭 I’m currently working on sharpening my JS skills
 - 🌱 I’m currently learning the Material UI library
 - 📫 Reach me by mail: davidbinneun@gmail.com
 - ⚡ Fun fact: Hippos have pink milk (for real)
